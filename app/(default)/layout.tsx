@@ -7,6 +7,11 @@ import 'aos/dist/aos.css'
 
 import Footer from '@/components/ui/footer'
 
+import ReactGA from 'react-ga';
+
+const TRACKING_ID = process.env.REACT_APP_GA;
+ReactGA.initialize(TRACKING_ID);
+
 export default function DefaultLayout({
   children,
 }: {

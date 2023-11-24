@@ -3,16 +3,13 @@ export const metadata = {
   description: 'Watch 24/7 FREE RealLifeCam Voyeur Videos [LIVE] + Replays and Archive from hundreds of voyeur cams, creators and locations!',
 }
 
-import Hero from '@/components/hero'
-import Features from '@/components/features'
-import Newsletter from '@/components/newsletter'
+import Hero from '@/components/hero';
+
 
 export default function Home() {
   return (
     <>
       <Hero />
-      {/*<Features />
-      <Newsletter />*/}
     </>
   )
 }
