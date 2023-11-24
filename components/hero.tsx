@@ -1,4 +1,4 @@
-import VideoThumb from '@/public/images/hero-image-01.png'
+import VideoThumb from '@/public/images/hero-image-01.jpg'
 import VideoThumb1 from '@/public/images/hero-image-02.jpg'
 import VideoThumb2 from '@/public/images/hero-image-03.jpg'
 import VideoThumb3 from '@/public/images/hero-image-04.jpg'
