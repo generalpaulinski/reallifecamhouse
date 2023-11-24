@@ -1,4 +1,7 @@
-import VideoThumb from '@/public/images/hero-image-01.jpg'
+import VideoThumb from '@/public/images/hero-image-01.png'
+import VideoThumb1 from '@/public/images/hero-image-02.png'
+import VideoThumb2 from '@/public/images/hero-image-03.png'
+import VideoThumb3 from '@/public/images/hero-image-04.png'
 import ModalVideo from '@/components/modal-video'
 import Image from "next/image";
 
@@ -11,7 +14,7 @@ export default function Hero() {
         <div className="relative pt-20 pb-10 md:pt-30 md:pb-16">
 
           {/* Section header */}
-          <div className="max-w-3xl mx-auto text-center pb-12 md:pb-8">
+          <div className="max-w-3xl mx-auto text-center pb-8 md:pb-8">
             <h1 className="h3 mb-4 text-white" data-aos="fade-up"><a href={"https://voyeurhouse.com/live/"}>Watch 24/7 FREE RealLifeCam Voyeur Videos [LIVE]</a></h1>
             <p className="text-l text-white" data-aos="fade-up" data-aos-delay="200"><a href={"https://voyeurhouse.com/live/"}>Live Cams, Replays and Archive from hundreds of voyeur cams, creators and locations!</a></p>
           </div>
@@ -28,19 +31,19 @@ export default function Hero() {
           <p className="text-m text-white mt-2 ml-0 text-left lg:ml-10"><a href={"https://voyeurhouse.com/live/"}>You may also like: </a></p>
 
           <div className="flex grow items-center justify-center mt-2">
-            <div className="m-2">
+            <div className="m-1 lg:m-2">
               <a href={"https://voyeurhouse.com/live/"}>
-                <Image className="hover:border" src={VideoThumb} width={280} height={200} alt={"Recommended Video 1"} />
+                <Image className="hover:border" src={VideoThumb1} width={280} height={200} alt={"Recommended Video 1"} />
               </a>
             </div>
-            <div className="m-2">
+            <div className="m-1 lg:m-2">
               <a href={"https://voyeurhouse.com/replay"}>
-                <Image className="hover:border" src={VideoThumb} width={280} height={200} alt={"Recommended Video 2"} />
+                <Image className="hover:border" src={VideoThumb2} width={280} height={200} alt={"Recommended Video 2"} />
               </a>
             </div>
-            <div className="m-2">
+            <div className="m-1 lg:m-2">
               <a href={"https://voyeurhouse.com/live/"}>
-                <Image className="hover:border" src={VideoThumb} width={280} height={200} alt={"Recommended Video 3"} />
+                <Image className="hover:border" src={VideoThumb3} width={280} height={200} alt={"Recommended Video 3"} />
               </a>
             </div>
           </div>
