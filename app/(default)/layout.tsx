@@ -9,7 +9,7 @@ import Footer from '@/components/ui/footer'
 
 import ReactGA from 'react-ga';
 
-ReactGA.initialize(`${process.env.REACT_APP_GA}`);
+ReactGA.initialize('G-Q3MV2XW4LX');
 
 export default function DefaultLayout({
   children,
