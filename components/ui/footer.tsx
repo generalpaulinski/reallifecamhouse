@@ -19,7 +19,7 @@ export default function Footer() {
 
               {/* 2nd block */}
               <div className="text-sm">
-                <h6 className="text-gray-200 font-medium mb-1">Information</h6>
+                <h5 className="text-gray-200 font-medium mb-1">Information</h5>
                 <ul>
                   <li className="mb-1">
                     <Link href="https://voyeurhouse.com/cms/tos" target="_blank" className="text-gray-200 hover:text-gray-100 transition duration-150 ease-in-out">Terms & Conditions</Link>
@@ -32,7 +32,7 @@ export default function Footer() {
 
               {/* 3rd block */}
               <div className="text-sm">
-                <h6 className="text-gray-200 font-medium mb-1">Support & Help</h6>
+                <h5 className="text-gray-200 font-medium mb-1">Support & Help</h5>
                 <ul>
                   <li className="mb-1">
                     <Link href="https://voyeurhouse.com/cms/faq" target="_blank" className="text-gray-200 hover:text-gray-100 transition duration-150 ease-in-out">FAQ</Link>
@@ -45,7 +45,7 @@ export default function Footer() {
 
               {/* 4th block */}
               <div className="text-sm">
-                <h6 className="text-gray-100 font-medium mb-1">Work with us</h6>
+                <h5 className="text-gray-100 font-medium mb-1">Work with us</h5>
                 <ul>
                   <li className="mb-1">
                     <Link href="https://voyeurhouse.com/model/register" target="_blank" className="text-gray-200 hover:text-gray-100 transition duration-150 ease-in-out">Become a creator</Link>
