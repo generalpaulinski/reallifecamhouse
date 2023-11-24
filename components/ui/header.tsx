@@ -9,14 +9,14 @@ export default function Header() {
                     {/* Site branding */}
                     <div className="shrink-0 mr-4">
                         {/* Logo */}
-                        <Link href="/" className="block" aria-label="Cruip">
+                        <Link href="/" className="block lg:ml-10 lg:pl-10" aria-label="Cruip">
                             <img alt="VoyeurHouse Logo" width="200"
                                  src="logo.png" />
                         </Link>
                     </div>
 
                     {/* Desktop navigation */}
-                    <nav className="hidden md:flex md:grow">
+                    <nav className="hidden lg:flex lg:grow">
                         {/* Desktop sign in links */}
                         <ul className="flex grow justify-end flex-wrap items-center">
                             <li>

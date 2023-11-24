@@ -5,13 +5,14 @@ export const metadata = {
 
 import Hero from '@/components/hero';
 import Text from '@/components/text';
+import Sidenav from '@/components/ui/sidebar';
 
 export default function Home() {
   return (
     <>
+      <Sidenav />
       <Hero />
       <Text />
-
     </>
   )
 }

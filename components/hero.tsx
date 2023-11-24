@@ -21,16 +21,16 @@ export default function Hero() {
 
           <ModalVideo
             thumb={VideoThumb}
-            thumbWidth={1024}
+            thumbWidth={1000}
             thumbHeight={576}
             thumbAlt="Modal video thumbnail"
             video="/videos/video.mp4"
             videoWidth={1920}
             videoHeight={1080} />
 
-          <p className="text-m text-white mt-2 ml-0 text-left lg:ml-10"><a href={"https://voyeurhouse.com/live/"}>You may also like: </a></p>
+          <p className="text-m text-white mt-2 ml-0 text-center"><a href={"https://voyeurhouse.com/live/"}>You may also like: </a></p>
 
-          <div className="flex grow items-center justify-center mt-2">
+          <div className="flex grow items-center justify-center mt-1">
             <div className="m-1 lg:m-2">
               <a href={"https://voyeurhouse.com/live/"}>
                 <Image className="hover:border" src={VideoThumb1} width={280} height={200} alt={"Recommended Video 1"} />
