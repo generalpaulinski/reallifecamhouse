@@ -4,12 +4,14 @@ export const metadata = {
 }
 
 import Hero from '@/components/hero';
-
+import Text from '@/components/text';
 
 export default function Home() {
   return (
     <>
       <Hero />
+      <Text />
+
     </>
   )
 }

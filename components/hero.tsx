@@ -1,7 +1,7 @@
 import VideoThumb from '@/public/images/hero-image-01.png'
-import VideoThumb1 from '@/public/images/hero-image-02.png'
-import VideoThumb2 from '@/public/images/hero-image-03.png'
-import VideoThumb3 from '@/public/images/hero-image-04.png'
+import VideoThumb1 from '@/public/images/hero-image-02.jpg'
+import VideoThumb2 from '@/public/images/hero-image-03.jpg'
+import VideoThumb3 from '@/public/images/hero-image-04.jpg'
 import ModalVideo from '@/components/modal-video'
 import Image from "next/image";
 
