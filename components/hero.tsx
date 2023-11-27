@@ -16,7 +16,7 @@ export default function Hero() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-8 md:pb-8">
             <h1 className="h3 mb-4 text-white" data-aos="fade-up"><a href={"https://voyeurhouse.com/live/"} id="header_link">Watch 24/7 FREE RealLifeCam Voyeur Videos [LIVE]</a></h1>
-            <p className="text-l text-white" data-aos="fade-up" data-aos-delay="200"><a href={"https://voyeurhouse.com/live/" id="subheader_link"}>Live Cams, Replays and Archive from hundreds of voyeur cams, creators and locations!</a></p>
+            <p className="text-l text-white" data-aos="fade-up" data-aos-delay="200"><a href={"https://voyeurhouse.com/live/"} id="subheader_link">Live Cams, Replays and Archive from hundreds of voyeur cams, creators and locations!</a></p>
           </div>
 
           <ModalVideo
