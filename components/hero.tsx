@@ -15,7 +15,7 @@ export default function Hero() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-8 md:pb-8">
-            <h1 id="header_link" className="h3 mb-4 text-white" data-aos="fade-up"><a href={"https://voyeurhouse.com/live/"}>Watch 24/7 FREE RealLifeCam Voyeur Videos [LIVE]</a></h1>
+            <h1 className="h3 mb-4 text-white" data-aos="fade-up"><a href={"https://voyeurhouse.com/live/"} id="header_link">Watch 24/7 FREE RealLifeCam Voyeur Videos [LIVE]</a></h1>
             <p id="subheader_link" className="text-l text-white" data-aos="fade-up" data-aos-delay="200"><a href={"https://voyeurhouse.com/live/"}>Live Cams, Replays and Archive from hundreds of voyeur cams, creators and locations!</a></p>
           </div>
 
