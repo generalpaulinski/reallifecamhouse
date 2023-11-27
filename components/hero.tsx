@@ -15,8 +15,8 @@ export default function Hero() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-8 md:pb-8">
-            <h1 className="h3 mb-4 text-white" data-aos="fade-up"><a href={"https://voyeurhouse.com/live/"}>Watch 24/7 FREE RealLifeCam Voyeur Videos [LIVE]</a></h1>
-            <p className="text-l text-white" data-aos="fade-up" data-aos-delay="200"><a href={"https://voyeurhouse.com/live/"}>Live Cams, Replays and Archive from hundreds of voyeur cams, creators and locations!</a></p>
+            <h1 id="header_link" className="h3 mb-4 text-white" data-aos="fade-up"><a href={"https://voyeurhouse.com/live/"}>Watch 24/7 FREE RealLifeCam Voyeur Videos [LIVE]</a></h1>
+            <p id="subheader_link" className="text-l text-white" data-aos="fade-up" data-aos-delay="200"><a href={"https://voyeurhouse.com/live/"}>Live Cams, Replays and Archive from hundreds of voyeur cams, creators and locations!</a></p>
           </div>
 
           <ModalVideo
@@ -32,17 +32,17 @@ export default function Hero() {
 
           <div className="flex grow items-center justify-center mt-1">
             <div className="m-1 lg:m-2">
-              <a href={"https://voyeurhouse.com/live/"}>
+              <a id="recommendation_link1" href={"https://voyeurhouse.com/live/"}>
                 <Image className="hover:border" src={VideoThumb1} width={280} height={200} alt={"Recommended Video 1"} />
               </a>
             </div>
             <div className="m-1 lg:m-2">
-              <a href={"https://voyeurhouse.com/replay"}>
+              <a id="recommendation_link2" href={"https://voyeurhouse.com/replay"}>
                 <Image className="hover:border" src={VideoThumb2} width={280} height={200} alt={"Recommended Video 2"} />
               </a>
             </div>
             <div className="m-1 lg:m-2">
-              <a href={"https://voyeurhouse.com/live/"}>
+              <a id="recommendation_link3" href={"https://voyeurhouse.com/live/"}>
                 <Image className="hover:border" src={VideoThumb3} width={280} height={200} alt={"Recommended Video 3"} />
               </a>
             </div>
@@ -50,7 +50,7 @@ export default function Hero() {
 
           <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center mt-4">
             <div data-aos="fade-up" data-aos-delay="200">
-              <a className="btn text-white bg-green-500 hover:bg-green-700 w-full mb-8 sm:w-auto sm:mb-0" href="https://voyeurhouse.com/live/">Continue watching</a>
+              <a id="continuewatching_button_link" className="btn text-white bg-green-500 hover:bg-green-700 w-full mb-8 sm:w-auto sm:mb-0" href="https://voyeurhouse.com/live/">Continue watching</a>
             </div>
           </div>
 
