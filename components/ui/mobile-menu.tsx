@@ -75,7 +75,7 @@ export default function MobileMenu() {
                         </Link>
                     </li>
                     <li>
-                        <Link href="https://voyeurhouse.com/replay/" className="flex font-medium w-full text-gray-600 hover:text-gray-200 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
+                        <Link href="https://voyeurhouse.com/replay/" className="flex font-medium w-full text-gray-600 hover:text-gray-200 py-2 justify-center mobilemenu_topic" onClick={() => setMobileNavOpen(false)}>
                             Blowjob
                             <svg xmlns="http://www.w3.org/2000/svg" fill="none"
                                  viewBox="0 0 24 24" strokeWidth="1.5"
@@ -86,7 +86,7 @@ export default function MobileMenu() {
                         </Link>
                     </li>
                     <li>
-                        <Link href="https://voyeurhouse.com/replay/" className="flex font-medium w-full text-gray-600 hover:text-gray-200 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
+                        <Link href="https://voyeurhouse.com/replay/" className="flex font-medium w-full text-gray-600 hover:text-gray-200 py-2 justify-center mobilemenu_topic" onClick={() => setMobileNavOpen(false)}>
                             Amateur
                             <svg xmlns="http://www.w3.org/2000/svg" fill="none"
                                  viewBox="0 0 24 24" strokeWidth="1.5"
@@ -97,7 +97,7 @@ export default function MobileMenu() {
                         </Link>
                     </li>
                     <li>
-                        <Link href="https://voyeurhouse.com/replay/" className="flex font-medium w-full text-gray-600 hover:text-gray-200 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
+                        <Link href="https://voyeurhouse.com/replay/" className="flex font-medium w-full text-gray-600 hover:text-gray-200 py-2 justify-center mobilemenu_topic" onClick={() => setMobileNavOpen(false)}>
                             Threesome
                             <svg xmlns="http://www.w3.org/2000/svg" fill="none"
                                  viewBox="0 0 24 24" strokeWidth="1.5"
@@ -108,7 +108,7 @@ export default function MobileMenu() {
                         </Link>
                     </li>
                     <li>
-                        <Link href="https://voyeurhouse.com/replay/" className="flex font-medium w-full text-gray-600 hover:text-gray-200 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
+                        <Link href="https://voyeurhouse.com/replay/" className="flex font-medium w-full text-gray-600 hover:text-gray-200 py-2 justify-center mobilemenu_topic" onClick={() => setMobileNavOpen(false)}>
                             Anal
                             <svg xmlns="http://www.w3.org/2000/svg" fill="none"
                                  viewBox="0 0 24 24" strokeWidth="1.5"
@@ -119,7 +119,7 @@ export default function MobileMenu() {
                         </Link>
                     </li>
                     <li>
-                        <Link href="https://voyeurhouse.com/replay/" className="flex font-medium w-full text-gray-600 hover:text-gray-200 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
+                        <Link href="https://voyeurhouse.com/replay/" className="flex font-medium w-full text-gray-600 hover:text-gray-200 py-2 justify-center mobilemenu_topic" onClick={() => setMobileNavOpen(false)}>
                             BDSM
                             <svg xmlns="http://www.w3.org/2000/svg" fill="none"
                                  viewBox="0 0 24 24" strokeWidth="1.5"
@@ -130,7 +130,7 @@ export default function MobileMenu() {
                         </Link>
                     </li>
                     <li>
-                        <Link href="https://voyeurhouse.com/replay/" className="flex font-medium w-full text-gray-600 hover:text-gray-200 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
+                        <Link href="https://voyeurhouse.com/replay/" className="flex font-medium w-full text-gray-600 hover:text-gray-200 py-2 justify-center mobilemenu_topic" onClick={() => setMobileNavOpen(false)}>
                             Live Sex
                             <svg xmlns="http://www.w3.org/2000/svg" fill="none"
                                  viewBox="0 0 24 24" strokeWidth="1.5"
@@ -141,7 +141,7 @@ export default function MobileMenu() {
                         </Link>
                     </li>
                     <li>
-                        <Link href="https://voyeurhouse.com/replay/" className="flex font-medium w-full text-gray-600 hover:text-gray-200 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
+                        <Link href="https://voyeurhouse.com/replay/" className="flex font-medium w-full text-gray-600 hover:text-gray-200 py-2 justify-center mobilemenu_topic" onClick={() => setMobileNavOpen(false)}>
                             Webcam
                             <svg xmlns="http://www.w3.org/2000/svg" fill="none"
                                  viewBox="0 0 24 24" strokeWidth="1.5"
@@ -152,7 +152,7 @@ export default function MobileMenu() {
                         </Link>
                     </li>
                     <li>
-                        <Link href="https://voyeurhouse.com/replay/" className="flex font-medium w-full text-gray-600 hover:text-gray-200 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
+                        <Link href="https://voyeurhouse.com/replay/" className="flex font-medium w-full text-gray-600 hover:text-gray-200 py-2 justify-center mobilemenu_topic" onClick={() => setMobileNavOpen(false)}>
                             Sextoys
                             <svg xmlns="http://www.w3.org/2000/svg" fill="none"
                                  viewBox="0 0 24 24" strokeWidth="1.5"
@@ -163,7 +163,7 @@ export default function MobileMenu() {
                         </Link>
                     </li>
                     <li>
-                        <Link href="https://voyeurhouse.com/replay/" className="flex font-medium w-full text-gray-600 hover:text-gray-200 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
+                        <Link href="https://voyeurhouse.com/replay/" className="flex font-medium w-full text-gray-600 hover:text-gray-200 py-2 justify-center mobilemenu_topic" onClick={() => setMobileNavOpen(false)}>
                             Shower
                             <svg xmlns="http://www.w3.org/2000/svg" fill="none"
                                  viewBox="0 0 24 24" strokeWidth="1.5"
@@ -174,7 +174,7 @@ export default function MobileMenu() {
                         </Link>
                     </li>
                     <li>
-                        <Link href="https://voyeurhouse.com/replay/" className="flex font-medium w-full text-gray-600 hover:text-gray-200 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
+                        <Link href="https://voyeurhouse.com/replay/" className="flex font-medium w-full text-gray-600 hover:text-gray-200 py-2 justify-center mobilemenu_topic" onClick={() => setMobileNavOpen(false)}>
                             Facial
                             <svg xmlns="http://www.w3.org/2000/svg" fill="none"
                                  viewBox="0 0 24 24" strokeWidth="1.5"
@@ -185,7 +185,7 @@ export default function MobileMenu() {
                         </Link>
                     </li>
                     <li>
-                        <Link href="https://voyeurhouse.com/replay/" className="flex font-medium w-full text-gray-600 hover:text-gray-200 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
+                        <Link href="https://voyeurhouse.com/replay/" className="flex font-medium w-full text-gray-600 hover:text-gray-200 py-2 justify-center mobilemenu_topic" onClick={() => setMobileNavOpen(false)}>
                             Lesbian
                             <svg xmlns="http://www.w3.org/2000/svg" fill="none"
                                  viewBox="0 0 24 24" strokeWidth="1.5"
@@ -196,7 +196,7 @@ export default function MobileMenu() {
                         </Link>
                     </li>
                     <li>
-                        <Link href="https://voyeurhouse.com/replay/" className="flex font-medium w-full text-gray-600 hover:text-gray-200 py-2 justify-center" onClick={() => setMobileNavOpen(false)}>
+                        <Link href="https://voyeurhouse.com/replay/" className="flex font-medium w-full text-gray-600 hover:text-gray-200 py-2 justify-center mobilemenu_topic" onClick={() => setMobileNavOpen(false)}>
                             Fetish
                             <svg xmlns="http://www.w3.org/2000/svg" fill="none"
                                  viewBox="0 0 24 24" strokeWidth="1.5"
