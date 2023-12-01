@@ -28,6 +28,7 @@ export default function DefaultLayout({
     }
 
     ReactGA.initialize('G-Q3MV2XW4LX');
+    ReactGA.pageview('/index.html');
 
     TagManager.initialize(tagManagerArgs);
   })
