@@ -12,12 +12,12 @@ export default function Hero() {
                     RealLifeCam World!</h3>
                 <p className="mb-2 text-white">
                     Explore our unique <a className="underline"
-                                          href="https://voyeurhouse.com/locations"> voyeur
+                                          href="https://voyeurhouse.com/locations?utm_source=googleads&utm_medium=paidads&utm_campaign=reallifecam.house&utm_id=text"> voyeur
                     houses</a>, where you get
                     a real-life view into the daily lifes of <span
                     className="font-bold"> real people </span>.
                     Our site is more than just another <a className="underline"
-                                                          href="https://voyeurhouse.com/live/">reallifecam </a>
+                                                          href="https://voyeurhouse.com/live?utm_source=googleads&utm_medium=paidads&utm_campaign=reallifecam.house&utm_id=text">reallifecam </a>
                     destination. It's a window into genuine, unscripted moments,
                     offering a look at real life as it unfolds in all it’s
                     honesty and nudity.
@@ -33,7 +33,7 @@ export default function Hero() {
                     className="font-bold">spy cams</span> that
                     provide an authentic glimpse into the <a
                     className="underline"
-                    href="https://voyeurhouse.com/locations">real lifes of real
+                    href="https://voyeurhouse.com/locations?utm_source=googleads&utm_medium=paidads&utm_campaign=reallifecam.house&utm_id=text">real lifes of real
                     people</a>. It's like
                     being a secret observer in someone's world, witnessing their
                     true stories and sexual moments as they happen.
@@ -45,7 +45,7 @@ export default function Hero() {
                 <p className="mb-2 text-white">
                     Joining us means embarking on an exciting journey. Our free <a
                         className="underline"
-                        href="https://voyeurhouse.com/live">live
+                        href="https://voyeurhouse.com/live?utm_source=googleads&utm_medium=paidads&utm_campaign=reallifecam.house&utm_id=text">live
                         cams</a> connect you to the
                     real-world experiences of people, giving you a front-row
                     seat to their daily adventures and nude moments. It's a
@@ -68,7 +68,7 @@ export default function Hero() {
                 <ul className="mb-2 text-white">
                     <li className="list-disc mt-1"><span className="font-bold">24/7 Replays</span>: <a
                         className="underline"
-                        href="https://voyeurhouse.com/replay">Relive any
+                        href="https://voyeurhouse.com/replay?utm_source=googleads&utm_medium=paidads&utm_campaign=reallifecam.house&utm_id=text">Relive any
                         moment</a>, anytime. Never
                         miss out on the action.
                     </li>
@@ -78,11 +78,11 @@ export default function Hero() {
                     <li className="list-disc mt-1"><span className="font-bold">Archive Access</span>: Explore past events and uncover hidden
                         gems in our infinite <a
                             className="underline"
-                            href="https://voyeurhouse.com/media">archives</a>.
+                            href="https://voyeurhouse.com/media?utm_source=googleads&utm_medium=paidads&utm_campaign=reallifecam.house&utm_id=text">archives</a>.
                     </li>
                     <li className="list-disc mt-1"><span className="font-bold">Creator Chat</span>: Directly <a
                         className="underline"
-                        href="https://voyeurhouse.com/locations">interact with the
+                        href="https://voyeurhouse.com/locations?utm_source=googleads&utm_medium=paidads&utm_campaign=reallifecam.house&utm_id=text">interact with the
                         people</a> you're
                         watching and get to know them better.
                     </li>

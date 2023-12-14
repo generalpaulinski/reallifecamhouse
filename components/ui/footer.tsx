@@ -22,10 +22,10 @@ export default function Footer() {
                 <h5 className="text-gray-200 font-medium mb-1">Information</h5>
                 <ul>
                   <li className="mb-1">
-                    <Link href="https://voyeurhouse.com/cms/tos" target="_blank" className="text-gray-200 hover:text-gray-100 transition duration-150 ease-in-out">Terms & Conditions</Link>
+                    <Link href="https://voyeurhouse.com/cms/tos?utm_source=googleads&utm_medium=paidads&utm_campaign=reallifecam.house&utm_id=footer" target="_blank" className="text-gray-200 hover:text-gray-100 transition duration-150 ease-in-out">Terms & Conditions</Link>
                   </li>
                   <li className="mb-1">
-                    <Link href="https://voyeurhouse.com/cms/privacy" target="_blank" className="text-gray-200 hover:text-gray-100 transition duration-150 ease-in-out">Privacy Policy</Link>
+                    <Link href="https://voyeurhouse.com/cms/privacy?utm_source=googleads&utm_medium=paidads&utm_campaign=reallifecam.house&utm_id=footer" target="_blank" className="text-gray-200 hover:text-gray-100 transition duration-150 ease-in-out">Privacy Policy</Link>
                   </li>
                 </ul>
               </div>
@@ -35,10 +35,10 @@ export default function Footer() {
                 <h5 className="text-gray-200 font-medium mb-1">Support & Help</h5>
                 <ul>
                   <li className="mb-1">
-                    <Link href="https://voyeurhouse.com/cms/faq" target="_blank" className="text-gray-200 hover:text-gray-100 transition duration-150 ease-in-out">FAQ</Link>
+                    <Link href="https://voyeurhouse.com/cms/faq?utm_source=googleads&utm_medium=paidads&utm_campaign=reallifecam.house&utm_id=footer" target="_blank" className="text-gray-200 hover:text-gray-100 transition duration-150 ease-in-out">FAQ</Link>
                   </li>
                   <li className="mb-1">
-                    <Link href="https://blog.voyeurhouse.com/" target="_blank" className="text-gray-200 hover:text-gray-100 transition duration-150 ease-in-out">Voyeur House Blog</Link>
+                    <Link href="https://blog.voyeurhouse.com?utm_source=googleads&utm_medium=paidads&utm_campaign=reallifecam.house&utm_id=footer" target="_blank" className="text-gray-200 hover:text-gray-100 transition duration-150 ease-in-out">Voyeur House Blog</Link>
                   </li>
                 </ul>
               </div>
@@ -48,7 +48,7 @@ export default function Footer() {
                 <h5 className="text-gray-100 font-medium mb-1">Work with us</h5>
                 <ul>
                   <li className="mb-1">
-                    <Link href="https://voyeurhouse.com/model/register" target="_blank" className="text-gray-200 hover:text-gray-100 transition duration-150 ease-in-out">Become a creator</Link>
+                    <Link href="https://voyeurhouse.com/model/register?utm_source=googleads&utm_medium=paidads&utm_campaign=reallifecam.house&utm_id=footer" target="_blank" className="text-gray-200 hover:text-gray-100 transition duration-150 ease-in-out">Become a creator</Link>
                   </li>
                   <li className="mb-1">
                     <Link href="mailto:webmaster@voyeurhouse.com" className="text-gray-200 hover:text-gray-100 transition duration-150 ease-in-out">Webmasters</Link>
@@ -66,14 +66,14 @@ export default function Footer() {
             {/* Social links */}
             <ul className="flex mb-4 md:order-1 md:ml-4 md:mb-0">
               <li>
-                <Link href="https://twitter.com/thevoyeurhouse" target="_blank" className="flex justify-center items-center text-green-500 bg-gray-800 hover:text-gray-100 hover:bg-green-600 rounded-full transition duration-150 ease-in-out" aria-label="Twitter">
+                <Link href="https://twitter.com/thevoyeurhouse?utm_source=googleads&utm_medium=paidads&utm_campaign=reallifecam.house&utm_id=footer" target="_blank" className="flex justify-center items-center text-green-500 bg-gray-800 hover:text-gray-100 hover:bg-green-600 rounded-full transition duration-150 ease-in-out" aria-label="Twitter">
                   <svg className="w-8 h-8 fill-current" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
                     <path d="m13.063 9 3.495 4.475L20.601 9h2.454l-5.359 5.931L24 23h-4.938l-3.866-4.893L10.771 23H8.316l5.735-6.342L8 9h5.063Zm-.74 1.347h-1.457l8.875 11.232h1.36l-8.778-11.232Z" />
                   </svg>
                 </Link>
               </li>
               <li className="ml-4">
-                <Link href="https://www.instagram.com/thevoyeurhouse/" target="_blank" className="flex justify-center items-center text-green-500 bg-gray-800 hover:text-gray-100 hover:bg-green-600 rounded-full transition duration-150 ease-in-out" aria-label="Instagram">
+                <Link href="https://www.instagram.com/thevoyeurhouse?utm_source=googleads&utm_medium=paidads&utm_campaign=reallifecam.house&utm_id=footer" target="_blank" className="flex justify-center items-center text-green-500 bg-gray-800 hover:text-gray-100 hover:bg-green-600 rounded-full transition duration-150 ease-in-out" aria-label="Instagram">
                   <svg className="w-8 h-8 fill-current" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
                     <circle cx="20.145" cy="11.892" r="1" />
                     <path d="M16 20c-2.206 0-4-1.794-4-4s1.794-4 4-4 4 1.794 4 4-1.794 4-4 4zm0-6c-1.103 0-2 .897-2 2s.897 2 2 2 2-.897 2-2-.897-2-2-2z" />
